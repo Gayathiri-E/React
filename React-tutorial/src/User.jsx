@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 
 
 //using props
@@ -14,14 +14,14 @@ import React from 'react'
 
 
 //D- structuring method
-function User({name,age,phone}){
-    return (
-        <div>
-            <h1>{name}</h1>
-            <h1>{age}</h1>
-            <h1>{phone}</h1>
-        </div>
-    );
-}
+// function User({name,age,phone}){
+//     return (
+//         <div>
+//             <h1>{name}</h1>
+//             <h1>{age}</h1>
+//             <h1>{phone}</h1>
+//         </div>
+//     );
+// }
 
-export default User
+// export default User
